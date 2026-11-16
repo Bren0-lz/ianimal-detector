@@ -1,0 +1,21 @@
+# Python & Ambientes Virtuais
+.venv/
+venv/
+env/
+ENV/
+*.py[cod]
+*$py.class
+__pycache__/
+
+# Checkpoints e logs de treino
+.ipynb_checkpoints/
+*.log
+
+# Datasets pesados (não versionar pastas com milhares de imagens)
+raw-img/
+data_split/
+
+# Arquivos de sistema operacional
+.DS_Store
+Thumbs.db
+desktop.ini
