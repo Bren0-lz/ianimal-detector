@@ -72,8 +72,8 @@ IAnimal/
 Clone o repositório e configure um ambiente virtual:
 
 ```bash
-git clone https://github.com/Bren0-lz/IAnimal.git
-cd IAnimal
+git clone https://github.com/Bren0-lz/ianimal-detector.git
+cd ianimal-detector
 
 # Criar ambiente virtual
 python -m venv .venv
